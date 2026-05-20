@@ -1,5 +1,11 @@
 # hardhat
 
+## 3.4.4
+
+### Patch Changes
+
+- [#8197](https://github.com/NomicFoundation/hardhat/pull/8197) [`d3cb008`](https://github.com/NomicFoundation/hardhat/commit/d3cb0080e1a7a44cbfddfae879aa8bc23cfe818b) Thanks [@alcuadrado](https://github.com/alcuadrado)! - Update the error reporting logic to reduce noise
+
 ## 3.4.3
 
 ### Patch Changes
